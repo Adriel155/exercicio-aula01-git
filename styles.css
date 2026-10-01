@@ -1,0 +1,18 @@
+/* Estilização do cabeçalho */
+header {
+    background-color: #232f3e;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+nav a {
+    color: #ffffff;
+    margin: 0 10px;
+    text-decoration: none;
+}
